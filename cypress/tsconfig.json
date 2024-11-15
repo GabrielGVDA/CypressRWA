@@ -1,6 +1,6 @@
 {
   "extends": "../tsconfig.json",
-  "include": ["./**/*.ts", "../cypress.d.ts", "tests/ui/LocalHost.spec.js"],
+  "include": ["./**/*.ts", "../cypress.d.ts", "tests/ui/LocalHost.spec.js", "paginas/loginPage.js", "paginas/loginPage.js"],
   "exclude": [],
   "compilerOptions": {
     "types": ["cypress", "@percy/cypress"],

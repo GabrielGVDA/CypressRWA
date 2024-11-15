@@ -1,0 +1,61 @@
+{
+    "userSuccess": {
+      "username": "nickname",
+      "password": "nick123"
+
+    },
+    "userFail": {
+    "username": "nickname",  
+    "password": "nick132"
+
+    },
+    "registerSuccess": {
+      "firstName": "Norte",
+      "lastName": "Sul",
+      "username": "nickname",
+      "password": "nick123",
+      "confirmPassword": "nick123"
+    },
+    "registerFail": {
+      "firstName": "Norte",
+      "lastName": "Sul",
+      "username": "nickname",
+      "password": "nick123",
+      "confirmPassword": "nick132"
+
+    },
+    "moneyTransf": {
+      "firstName": "Norte",
+      "lastName": "Sul",
+      "username": "nickname",
+      "password": "nick123",
+      "confirmPassword": "nick123",
+      "valor": "7",
+      "note": "silco"
+    },
+    "moneyReq": {
+      "firstName": "Norte",
+      "lastName": "Sul",
+      "username": "nickname",
+      "password": "nick123",
+      "confirmPassword": "nick123",
+      "valor": "7",
+      "note": "nickname"
+    },
+    "MineSuccess": {
+      "firstName": "Norte",
+      "lastName": "Sul",
+      "username": "nickname",
+      "password": "nick123",
+      "confirmPassword": "nick123"
+
+    },
+    "MineFail": {
+      "firstName": "Sul",
+      "lastName": "Norte",
+      "username": "nick123",
+      "password": "nick321",
+      "confirmPassword": "nick321"
+
+    }
+  }
